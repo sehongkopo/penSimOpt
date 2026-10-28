@@ -1,0 +1,237 @@
+# source path (relative to the project root)	keys read by the notebooks (empty = whole file)
+02_script/04_gpu/a1rF_obs16_s10_dw120_ts0_yield.npy	
+02_script/04_gpu/a1rF_obs16_s10_dw120_ts1_yield.npy	
+02_script/04_gpu/a1rF_obs16_s10_dw120_ts2_yield.npy	
+02_script/04_gpu/a1rF_obs16_s10_dw30_ts0_yield.npy	
+02_script/04_gpu/a1rF_obs16_s10_dw30_ts1_yield.npy	
+02_script/04_gpu/a1rF_obs16_s10_dw30_ts2_yield.npy	
+02_script/04_gpu/a1rF_obs16_s10_dw60_ts0_yield.npy	
+02_script/04_gpu/a1rF_obs16_s10_dw60_ts1_yield.npy	
+02_script/04_gpu/a1rF_obs16_s10_dw60_ts2_yield.npy	
+02_script/04_gpu/a1rF_obs16_s80_dw120_ts0_yield.npy	
+02_script/04_gpu/a1rF_obs16_s80_dw120_ts1_yield.npy	
+02_script/04_gpu/a1rF_obs16_s80_dw120_ts2_yield.npy	
+02_script/04_gpu/a1rF_obs16_s80_dw30_ts0_yield.npy	
+02_script/04_gpu/a1rF_obs16_s80_dw30_ts1_yield.npy	
+02_script/04_gpu/a1rF_obs16_s80_dw30_ts2_yield.npy	
+02_script/04_gpu/a1rF_obs16_s80_dw60_ts0_yield.npy	
+02_script/04_gpu/a1rF_obs16_s80_dw60_ts1_yield.npy	
+02_script/04_gpu/a1rF_obs16_s80_dw60_ts2_yield.npy	
+02_script/04_gpu/apc_streamA_b5_v2.npz	y_apcA
+02_script/04_gpu/b2a_bc_n10_obs16_ts0_yield.npy	
+02_script/04_gpu/b2a_bc_n10_obs16_ts1_yield.npy	
+02_script/04_gpu/b2a_bc_n10_obs16_ts2_yield.npy	
+02_script/04_gpu/b2a_bc_n20_obs16_ts0_yield.npy	
+02_script/04_gpu/b2a_bc_n20_obs16_ts1_yield.npy	
+02_script/04_gpu/b2a_bc_n20_obs16_ts2_yield.npy	
+02_script/04_gpu/b2a_bc_n30_obs16_ts0_yield.npy	
+02_script/04_gpu/b2a_bc_n30_obs16_ts1_yield.npy	
+02_script/04_gpu/b2a_bc_n30_obs16_ts2_yield.npy	
+02_script/04_gpu/b2a_bc_obs16_ts0_yield.npy	
+02_script/04_gpu/b2a_bc_obs16_ts1_yield.npy	
+02_script/04_gpu/b2a_bc_obs16_ts2_yield.npy	
+02_script/04_gpu/b2a_faith_obs16_ts0_yield.npy	
+02_script/04_gpu/b2a_faith_obs16_ts1_yield.npy	
+02_script/04_gpu/b2a_faith_obs16_ts2_yield.npy	
+02_script/04_gpu/b2a_pen_lo300_l40_ts0_yield.npy	
+02_script/04_gpu/b2a_pen_lo300_l40_ts1_yield.npy	
+02_script/04_gpu/b2a_pen_lo300_l40_ts2_yield.npy	
+02_script/04_gpu/b2a_pen_lo400_l10_ts0_yield.npy	
+02_script/04_gpu/b2a_pen_lo400_l10_ts1_yield.npy	
+02_script/04_gpu/b2a_pen_lo400_l10_ts2_yield.npy	
+02_script/04_gpu/b2a_pen_lo400_l160_ts0_yield.npy	
+02_script/04_gpu/b2a_pen_lo400_l160_ts1_yield.npy	
+02_script/04_gpu/b2a_pen_lo400_l160_ts2_yield.npy	
+02_script/04_gpu/b2a_pen_lo400_l40_ts0_yield.npy	
+02_script/04_gpu/b2a_pen_lo400_l40_ts1_yield.npy	
+02_script/04_gpu/b2a_pen_lo400_l40_ts2_yield.npy	
+02_script/04_gpu/b2a_pen_lo600_l40_ts0_yield.npy	
+02_script/04_gpu/b2a_pen_lo600_l40_ts1_yield.npy	
+02_script/04_gpu/b2a_pen_lo600_l40_ts2_yield.npy	
+03_result/bo_paa_log_patch_s0.json	
+03_result/bo_paa_log_patch_s1.json	
+03_result/bo_paa_log_patch_s2.json	
+03_result/bo_paa_log_patch_s3.json	
+03_result/bo_paa_log_patch_s4.json	
+03_result/bo_paa_log_patch_s5.json	
+03_result/bo_paa_log_patch_s6.json	
+03_result/bo_paa_log_patch_s7.json	
+03_result/bo_paa_log_patch_s8.json	
+03_result/bo_paa_log_patch_s9.json	
+02_script/04_gpu/cem_fine_b2a_s10_d12_narrow_s0.npz	fine_yield,seeds
+02_script/04_gpu/cem_fine_b2a_s10_d12_narrow_s1.npz	fine_yield,seeds
+02_script/04_gpu/cem_fine_b2a_s10_d12_narrow_s2.npz	fine_yield,seeds
+02_script/04_gpu/cem_fine_b2a_s10_d12_narrow_s3.npz	fine_yield,seeds
+02_script/04_gpu/cem_fine_b2a_s10_d24_narrow_s0.npz	fine_yield,seeds
+02_script/04_gpu/cem_fine_b2a_s10_d24_narrow_s1.npz	fine_yield,seeds
+02_script/04_gpu/cem_fine_b2a_s10_d24_narrow_s2.npz	fine_yield,seeds
+02_script/04_gpu/cem_fine_b2a_s10_d24_narrow_s3.npz	fine_yield,seeds
+02_script/04_gpu/cem_fine_b2a_s10_d6_narrow_s0.npz	fine_yield,seeds
+02_script/04_gpu/cem_fine_b2a_s10_d6_narrow_s1.npz	fine_yield,seeds
+02_script/04_gpu/cem_fine_b2a_s10_d6_narrow_s2.npz	fine_yield,seeds
+02_script/04_gpu/cem_fine_b2a_s10_d6_narrow_s3.npz	fine_yield,seeds
+02_script/04_gpu/cem_fine_b2a_s80_d12_narrow_s0.npz	fine_yield,seeds
+02_script/04_gpu/cem_fine_b2a_s80_d12_narrow_s1.npz	fine_yield,seeds
+02_script/04_gpu/cem_fine_b2a_s80_d12_narrow_s2.npz	fine_yield,seeds
+02_script/04_gpu/cem_fine_b2a_s80_d12_narrow_s3.npz	fine_yield,seeds
+02_script/04_gpu/cem_fine_b2a_s80_d24_narrow_s0.npz	fine_yield,seeds
+02_script/04_gpu/cem_fine_b2a_s80_d24_narrow_s1.npz	fine_yield,seeds
+02_script/04_gpu/cem_fine_b2a_s80_d24_narrow_s2.npz	fine_yield,seeds
+02_script/04_gpu/cem_fine_b2a_s80_d24_narrow_s3.npz	fine_yield,seeds
+02_script/04_gpu/cem_fine_b2a_s80_d6_narrow_s0.npz	fine_yield,seeds
+02_script/04_gpu/cem_fine_b2a_s80_d6_narrow_s1.npz	fine_yield,seeds
+02_script/04_gpu/cem_fine_b2a_s80_d6_narrow_s2.npz	fine_yield,seeds
+02_script/04_gpu/cem_fine_b2a_s80_d6_narrow_s3.npz	fine_yield,seeds
+02_script/04_gpu/cem_fine_canon.npz	fine_yield,seeds
+02_script/04_gpu/cem_fine_w45_wide_b5_s10d12_s0.npz	fine_yield,seeds
+02_script/04_gpu/cem_fine_w45_wide_b5_s10d12_s1.npz	fine_yield,seeds
+02_script/04_gpu/cem_fine_w45_wide_b5_s10d12_s2.npz	fine_yield,seeds
+02_script/04_gpu/cem_fine_w45_wide_b5_s10d12_s3.npz	fine_yield,seeds
+02_script/04_gpu/cem_fine_wide80_s0.npz	fine_yield,seeds
+02_script/04_gpu/cem_fine_wide80_s1.npz	fine_yield,seeds
+02_script/04_gpu/dev_bank_200.npz	ybase
+02_script/04_gpu/dev_bank_200a.npz	seeds,ybase
+03_result/e4_unified.json	
+02_script/04_gpu/fin_boctrl_patch_s0_rand200_yield.npy	
+02_script/04_gpu/fin_boctrl_patch_s1_rand200_yield.npy	
+02_script/04_gpu/fin_boctrl_patch_s2_rand200_yield.npy	
+02_script/04_gpu/fin_boctrl_patch_s3_rand200_yield.npy	
+02_script/04_gpu/fin_boctrl_patch_s4_rand200_yield.npy	
+02_script/04_gpu/fin_boctrl_patch_s5_rand200_yield.npy	
+02_script/04_gpu/fin_boctrl_patch_s6_rand200_yield.npy	
+02_script/04_gpu/fin_boctrl_patch_s7_rand200_yield.npy	
+02_script/04_gpu/fin_boctrl_patch_s8_rand200_yield.npy	
+02_script/04_gpu/fin_boctrl_patch_s9_rand200_yield.npy	
+02_script/04_gpu/fin_faith_obs16_rand200_ts0_yield.npy	
+02_script/04_gpu/fin_faith_obs16_rand200_ts1_yield.npy	
+02_script/04_gpu/fin_faith_obs16_rand200_ts2_yield.npy	
+02_script/04_gpu/fin_faith_obs16_rand200_ts3_yield.npy	
+02_script/04_gpu/fin_faith_obs16_rand200_ts4_yield.npy	
+02_script/04_gpu/fin_faith_obs16_rand200_ts5_yield.npy	
+02_script/04_gpu/fin_faith_obs16_rand200_ts6_yield.npy	
+02_script/04_gpu/fin_faith_obs16_rand200_ts7_yield.npy	
+02_script/04_gpu/fin_faith_obs16_rand200_ts8_yield.npy	
+02_script/04_gpu/fin_faith_obs16_rand200_ts9_yield.npy	
+02_script/04_gpu/fin_sacG_rand200_ts0_yield.npy	
+02_script/04_gpu/fin_sacG_rand200_ts1_yield.npy	
+02_script/04_gpu/fin_sacG_rand200_ts2_yield.npy	
+02_script/04_gpu/fin_sacG_rand200_ts3_yield.npy	
+02_script/04_gpu/fin_sacG_rand200_ts4_yield.npy	
+02_script/04_gpu/fin_sacG_rand200_ts5_yield.npy	
+02_script/04_gpu/fin_sacG_rand200_ts6_yield.npy	
+02_script/04_gpu/fin_sacG_rand200_ts7_yield.npy	
+02_script/04_gpu/fin_sacG_rand200_ts8_yield.npy	
+02_script/04_gpu/fin_sacG_rand200_ts9_yield.npy	
+03_result/paa_bench_pred_s0_indep.npz	GRU|cl,GRU|var,HGB|cl,HGB|var,LSTM|cl,LSTM|var,MLP|cl,MLP|var,PLS|cl,PLS|var,Patch-Transformer|cl,Patch-Transformer|var,RandomForest|cl,RandomForest|var,Ridge|cl,Ridge|var,TCN|cl,TCN|var,Transformer+cum|cl,Transformer+cum|var,Transformer-L|cl,Transformer-L|var,Transformer-S|cl,Transformer-S|var,y_cl,y_var
+03_result/paa_bench_pred_s1_indep.npz	GRU|cl,GRU|var,HGB|cl,HGB|var,LSTM|cl,LSTM|var,MLP|cl,MLP|var,PLS|cl,PLS|var,Patch-Transformer|cl,Patch-Transformer|var,RandomForest|cl,RandomForest|var,Ridge|cl,Ridge|var,TCN|cl,TCN|var,Transformer+cum|cl,Transformer+cum|var,Transformer-L|cl,Transformer-L|var,Transformer-S|cl,Transformer-S|var,y_cl,y_var
+03_result/paa_bench_pred_s2_indep.npz	GRU|cl,GRU|var,HGB|cl,HGB|var,LSTM|cl,LSTM|var,MLP|cl,MLP|var,PLS|cl,PLS|var,Patch-Transformer|cl,Patch-Transformer|var,RandomForest|cl,RandomForest|var,Ridge|cl,Ridge|var,TCN|cl,TCN|var,Transformer+cum|cl,Transformer+cum|var,Transformer-L|cl,Transformer-L|var,Transformer-S|cl,Transformer-S|var,y_cl,y_var
+03_result/paa_shap_patch_s0_indep.npz	phi,x_last
+03_result/paa_shap_patch_s1_indep.npz	phi
+03_result/paa_shap_patch_s2_indep.npz	phi
+03_result/ppo_lever_ablation_ts0.npz	yield_
+03_result/ppo_lever_ablation_ts1.npz	yield_
+03_result/ppo_lever_ablation_ts2.npz	yield_
+03_result/ppo_lever_ablation_ts3.npz	yield_
+03_result/ppo_lever_ablation_ts4.npz	yield_
+03_result/ppo_lever_ablation_ts5.npz	yield_
+03_result/ppo_lever_ablation_ts6.npz	yield_
+03_result/ppo_lever_ablation_ts7.npz	yield_
+03_result/ppo_lever_ablation_ts8.npz	yield_
+03_result/ppo_lever_ablation_ts9.npz	yield_
+03_result/ppo_shap_ts0.npz	obs,phi
+03_result/ppo_shap_ts1.npz	obs,phi
+03_result/ppo_shap_ts2.npz	obs,phi
+02_script/04_gpu/raman_onoff.npz	off,off_paa,on,on_paa
+02_script/04_gpu/sacG_s10_dw120_ts0_yield.npy	
+02_script/04_gpu/sacG_s10_dw120_ts1_yield.npy	
+02_script/04_gpu/sacG_s10_dw120_ts2_yield.npy	
+02_script/04_gpu/sacG_s10_dw30_ts0_yield.npy	
+02_script/04_gpu/sacG_s10_dw30_ts1_yield.npy	
+02_script/04_gpu/sacG_s10_dw30_ts2_yield.npy	
+02_script/04_gpu/sacG_s10_dw60_ts0_yield.npy	
+02_script/04_gpu/sacG_s10_dw60_ts1_yield.npy	
+02_script/04_gpu/sacG_s10_dw60_ts2_yield.npy	
+02_script/04_gpu/sacG_s80_dw120_ts0_yield.npy	
+02_script/04_gpu/sacG_s80_dw120_ts1_yield.npy	
+02_script/04_gpu/sacG_s80_dw120_ts2_yield.npy	
+02_script/04_gpu/sacG_s80_dw30_ts0_yield.npy	
+02_script/04_gpu/sacG_s80_dw30_ts1_yield.npy	
+02_script/04_gpu/sacG_s80_dw30_ts2_yield.npy	
+02_script/04_gpu/sacG_s80_dw60_ts0_yield.npy	
+02_script/04_gpu/sacG_s80_dw60_ts1_yield.npy	
+02_script/04_gpu/sacG_s80_dw60_ts2_yield.npy	
+03_result/stats_all_vars.npy	
+03_result/stats_all_vars_raw.npz	1 Online|DO2 (end)|APC,1 Online|DO2 (end)|BO,1 Online|DO2 (end)|CEM,1 Online|DO2 (end)|None,1 Online|DO2 (end)|PPO,1 Online|Off-gas CO2 (end)|APC,1 Online|Off-gas CO2 (end)|BO,1 Online|Off-gas CO2 (end)|CEM,1 Online|Off-gas CO2 (end)|None,1 Online|Off-gas CO2 (end)|PPO,1 Online|Volume (end)|APC,1 Online|Volume (end)|BO,1 Online|Volume (end)|CEM,1 Online|Volume (end)|None,1 Online|Volume (end)|PPO,2 Operating|Aeration (mean)|APC,2 Operating|Aeration (mean)|BO,2 Operating|Aeration (mean)|CEM,2 Operating|Aeration (mean)|None,2 Operating|Aeration (mean)|PPO,2 Operating|Agitation (mean)|APC,2 Operating|Agitation (mean)|BO,2 Operating|Agitation (mean)|CEM,2 Operating|Agitation (mean)|None,2 Operating|Agitation (mean)|PPO,2 Operating|Discharge (total)|APC,2 Operating|Discharge (total)|BO,2 Operating|Discharge (total)|CEM,2 Operating|Discharge (total)|None,2 Operating|Discharge (total)|PPO,2 Operating|Oil feed (total)|APC,2 Operating|Oil feed (total)|BO,2 Operating|Oil feed (total)|CEM,2 Operating|Oil feed (total)|None,2 Operating|Oil feed (total)|PPO,2 Operating|PAA feed (total)|APC,2 Operating|PAA feed (total)|BO,2 Operating|PAA feed (total)|CEM,2 Operating|PAA feed (total)|None,2 Operating|PAA feed (total)|PPO,2 Operating|Pressure (mean)|APC,2 Operating|Pressure (mean)|BO,2 Operating|Pressure (mean)|CEM,2 Operating|Pressure (mean)|None,2 Operating|Pressure (mean)|PPO,2 Operating|Sugar feed (total)|APC,2 Operating|Sugar feed (total)|BO,2 Operating|Sugar feed (total)|CEM,2 Operating|Sugar feed (total)|None,2 Operating|Sugar feed (total)|PPO,2 Operating|T set-point (mean)|APC,2 Operating|T set-point (mean)|BO,2 Operating|T set-point (mean)|CEM,2 Operating|T set-point (mean)|None,2 Operating|T set-point (mean)|PPO,2 Operating|Water addition (total)|APC,2 Operating|Water addition (total)|BO,2 Operating|Water addition (total)|CEM,2 Operating|Water addition (total)|None,2 Operating|Water addition (total)|PPO,2 Operating|pH set-point (mean)|APC,2 Operating|pH set-point (mean)|BO,2 Operating|pH set-point (mean)|CEM,2 Operating|pH set-point (mean)|None,2 Operating|pH set-point (mean)|PPO,3 Off-line/state|Biomass (end, kg)|APC,3 Off-line/state|Biomass (end, kg)|BO,3 Off-line/state|Biomass (end, kg)|CEM,3 Off-line/state|Biomass (end, kg)|None,3 Off-line/state|Biomass (end, kg)|PPO,3 Off-line/state|Dissolved CO2 (end)|APC,3 Off-line/state|Dissolved CO2 (end)|BO,3 Off-line/state|Dissolved CO2 (end)|CEM,3 Off-line/state|Dissolved CO2 (end)|None,3 Off-line/state|Dissolved CO2 (end)|PPO,3 Off-line/state|Glucose (end)|APC,3 Off-line/state|Glucose (end)|BO,3 Off-line/state|Glucose (end)|CEM,3 Off-line/state|Glucose (end)|None,3 Off-line/state|Glucose (end)|PPO,3 Off-line/state|NH3 (end)|APC,3 Off-line/state|NH3 (end)|BO,3 Off-line/state|NH3 (end)|CEM,3 Off-line/state|NH3 (end)|None,3 Off-line/state|NH3 (end)|PPO,3 Off-line/state|PAA (end)|APC,3 Off-line/state|PAA (end)|BO,3 Off-line/state|PAA (end)|CEM,3 Off-line/state|PAA (end)|None,3 Off-line/state|PAA (end)|PPO,3 Off-line/state|PAA (min after 10 h)|APC,3 Off-line/state|PAA (min after 10 h)|BO,3 Off-line/state|PAA (min after 10 h)|CEM,3 Off-line/state|PAA (min after 10 h)|None,3 Off-line/state|PAA (min after 10 h)|PPO,3 Off-line/state|Viscosity (end)|APC,3 Off-line/state|Viscosity (end)|BO,3 Off-line/state|Viscosity (end)|CEM,3 Off-line/state|Viscosity (end)|None,3 Off-line/state|Viscosity (end)|PPO,4 Derived|Net yield (incl. removed)|APC,4 Derived|Net yield (incl. removed)|BO,4 Derived|Net yield (incl. removed)|CEM,4 Derived|Net yield (incl. removed)|None,4 Derived|Net yield (incl. removed)|PPO
+02_script/04_gpu/testset_fig5_REPORTONLY_random200.npz	lens,par,seeds,u,ybase
+02_script/04_gpu/traj_b5_bo_patch_s0.npz	bo_Fpaa_u,bo_PAA
+02_script/04_gpu/traj_b5_bo_patch_s1.npz	bo_Fpaa_u,bo_PAA
+02_script/04_gpu/traj_b5_bo_patch_s2.npz	bo_Fpaa_u,bo_PAA
+02_script/04_gpu/traj_b5_bo_patch_s3.npz	bo_Fpaa_u,bo_PAA
+02_script/04_gpu/traj_b5_bo_patch_s4.npz	bo_Fpaa_u,bo_PAA
+02_script/04_gpu/traj_b5_bo_patch_s5.npz	bo_Fpaa_u,bo_PAA
+02_script/04_gpu/traj_b5_bo_patch_s6.npz	bo_Fpaa_u,bo_PAA
+02_script/04_gpu/traj_b5_bo_patch_s7.npz	bo_Fpaa_u,bo_PAA
+02_script/04_gpu/traj_b5_bo_patch_s8.npz	bo_Fpaa_u,bo_PAA
+02_script/04_gpu/traj_b5_bo_patch_s9.npz	bo_Fpaa_u,bo_PAA
+02_script/04_gpu/traj_b5v10.npz	apc_Foil_u,apc_Fpaa_u,apc_Fs_u,apc_NY,apc_PAA,apc_PV,apc_Pconc,apc_S,apc_X,apc_XV,base_Foil_u,base_Fpaa_u,base_Fs_u,base_NY,base_PAA,base_PV,base_Pconc,base_S,base_X,base_XV,bo_Foil_u,bo_Fpaa_u,bo_Fs_u,bo_NY,bo_PAA,bo_PV,bo_Pconc,bo_S,bo_X,bo_XV,cls,frac,rl_Foil_u,rl_Fpaa_u,rl_Fs_u,rl_NY,rl_PAA,rl_PV,rl_Pconc,rl_S,rl_X,rl_XV,shcem_Foil_u,shcem_Fpaa_u,shcem_Fs_u,shcem_NY,shcem_PAA,shcem_PV,shcem_Pconc,shcem_S,shcem_X,shcem_XV
+02_script/04_gpu/traj_b5v6.npz	apc_Fpaa_u,apc_PAA,base_Fpaa_u,base_PAA,frac
+03_result/w68_win120_s0.json	
+03_result/w68_win120_s1.json	
+03_result/w68_win120_s2.json	
+03_result/w68_win12_s0.json	
+03_result/w68_win12_s1.json	
+03_result/w68_win12_s2.json	
+03_result/w68_win18_s0.json	
+03_result/w68_win18_s1.json	
+03_result/w68_win18_s2.json	
+03_result/w68_win26_s0.json	
+03_result/w68_win26_s1.json	
+03_result/w68_win26_s2.json	
+03_result/w68_win38_s0.json	
+03_result/w68_win38_s1.json	
+03_result/w68_win38_s2.json	
+03_result/w68_win3_s0.json	
+03_result/w68_win3_s1.json	
+03_result/w68_win3_s2.json	
+03_result/w68_win55_s0.json	
+03_result/w68_win55_s1.json	
+03_result/w68_win55_s2.json	
+03_result/w68_win5_s0.json	
+03_result/w68_win5_s1.json	
+03_result/w68_win5_s2.json	
+03_result/w68_win80_s0.json	
+03_result/w68_win80_s1.json	
+03_result/w68_win80_s2.json	
+03_result/w68_win8_s0.json	
+03_result/w68_win8_s1.json	
+03_result/w68_win8_s2.json	
+03_result/w68_winall_s0.json	
+03_result/w68_winall_s1.json	
+03_result/w68_winall_s2.json	
+03_result/w69_apc.npz	orig|0,p10|0,p10|1,p10|2,p20|0,p20|1,p20|2,p30|0,p30|1,p30|2,rt|0
+03_result/w69_bo_boS10_s0_yield.npy	
+03_result/w69_bo_boS10_s1_yield.npy	
+03_result/w69_bo_boS10_s2_yield.npy	
+03_result/w69_bo_boS20_s0_yield.npy	
+03_result/w69_bo_boS20_s1_yield.npy	
+03_result/w69_bo_boS20_s2_yield.npy	
+03_result/w69_bo_boS30_s0_yield.npy	
+03_result/w69_bo_boS30_s1_yield.npy	
+03_result/w69_bo_boS30_s2_yield.npy	
+03_result/w69_bo_bo_s0_yield.npy	
+03_result/w69_bo_bo_s1_yield.npy	
+03_result/w69_bo_bo_s2_yield.npy	
+03_result/w69_bo_orig_s0_yield.npy	
+03_result/w69_bo_orig_s1_yield.npy	
+03_result/w69_bo_orig_s2_yield.npy	
+03_result/w74_pls_win12.json	
+03_result/w74_pls_win120.json	
+03_result/w74_pls_win18.json	
+03_result/w74_pls_win26.json	
+03_result/w74_pls_win3.json	
+03_result/w74_pls_win38.json	
+03_result/w74_pls_win5.json	
+03_result/w74_pls_win55.json	
+03_result/w74_pls_win8.json	
+03_result/w74_pls_win80.json	
+03_result/w74_pls_winall.json	

@@ -1,0 +1,60 @@
+{
+ "n_rows": 3726,
+ "n_batch": 200,
+ "Fs": {
+  "R2_online": 0.521,
+  "R2_online_offline": 0.512,
+  "add_one": {
+   "S": 0.506,
+   "PAA": 0.519,
+   "X": 0.513,
+   "P": 0.522,
+   "NH3": 0.512,
+   "visc": 0.517
+  }
+ },
+ "Fpaa": {
+  "R2_online": 0.496,
+  "R2_online_offline": 0.508,
+  "add_one": {
+   "S": 0.498,
+   "PAA": 0.499,
+   "X": 0.487,
+   "P": 0.49,
+   "NH3": 0.503,
+   "visc": 0.497
+  }
+ },
+ "Foil": {
+  "R2_online": 0.442,
+  "R2_online_offline": 0.454
+ },
+ "Fg": {
+  "R2_online": 0.267,
+  "R2_online_offline": 0.295
+ },
+ "Fw": {
+  "R2_online": 0.367,
+  "R2_online_offline": 0.377
+ },
+ "Fdis": {
+  "R2_online": 0.169,
+  "R2_online_offline": 0.174
+ },
+ "RPM": {
+  "R2_online": 0.327,
+  "R2_online_offline": 0.315
+ },
+ "pressure": {
+  "R2_online": 0.075,
+  "R2_online_offline": 0.087
+ },
+ "pH_sp": {
+  "R2_online": 0.264,
+  "R2_online_offline": 0.275
+ },
+ "T_sp": {
+  "R2_online": 0.294,
+  "R2_online_offline": 0.319
+ }
+}
