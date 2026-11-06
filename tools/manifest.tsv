@@ -138,9 +138,9 @@
 03_result/ppo_lever_ablation_ts7.npz	yield_
 03_result/ppo_lever_ablation_ts8.npz	yield_
 03_result/ppo_lever_ablation_ts9.npz	yield_
-03_result/ppo_shap_ts0.npz	obs,phi
-03_result/ppo_shap_ts1.npz	obs,phi
-03_result/ppo_shap_ts2.npz	obs,phi
+03_result/ppo_shap_ts0.npz	obs,phi,tfrac
+03_result/ppo_shap_ts1.npz	obs,phi,tfrac
+03_result/ppo_shap_ts2.npz	obs,phi,tfrac
 02_script/04_gpu/raman_onoff.npz	off,off_paa,on,on_paa
 02_script/04_gpu/sacG_s10_dw120_ts0_yield.npy	
 02_script/04_gpu/sacG_s10_dw120_ts1_yield.npy	
